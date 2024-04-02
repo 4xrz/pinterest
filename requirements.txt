@@ -2,5 +2,4 @@ kvsqlite
 telebot
 pyTelegramBotAPI
 requests
-os
 Rooz

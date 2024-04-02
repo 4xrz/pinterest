@@ -3,3 +3,5 @@ telebot
 pyTelegramBotAPI
 requests
 Rooz
+yt-dlp
+user-agent

@@ -4,6 +4,8 @@ from kvsqlite.sync import Client
 from telebot import types
 #from time import sleep
 import telebot,requests,os
+from keep_alive import keep_alive
+keep_alive()
 
 #https://youtu.be/eI_jUoAdEMw هو?si=9NhI
 

@@ -5,5 +5,4 @@ requests
 Rooz
 yt-dlp
 user-agent
-threading
 flask
